@@ -1,0 +1,16 @@
+.AP {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 50px 50px;
+}
+.output {
+  position: relative;
+  top: 40px;
+  right: 200px;
+}
+.buttons {
+  position: relative;
+  top: 80px;
+  right: 200px;
+}
